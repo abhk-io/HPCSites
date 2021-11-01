@@ -1,4 +1,7 @@
 
+
+========================================================================================================================================
+TOUCHBASED:
 Rank	System	Cores	Rmax (TFlop/s)	Rpeak (TFlop/s)	Power (kW)
 1	Supercomputer Fugaku - Supercomputer Fugaku, A64FX 48C 2.2GHz, Tofu interconnect D, Fujitsu
 RIKEN Center for Computational Science
@@ -6,6 +9,7 @@ Japan	7,630,848	442,010.0	537,212.0	29,899
 2	Summit - IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband, IBM
 DOE/SC/Oak Ridge National Laboratory
 United States	2,414,592	148,600.0	200,794.9	10,096
+========================================================================================================================================
 3	Sierra - IBM Power System AC922, IBM POWER9 22C 3.1GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband, IBM / NVIDIA / Mellanox
 DOE/NNSA/LLNL
 United States	1,572,480	94,640.0	125,712.0	7,438
