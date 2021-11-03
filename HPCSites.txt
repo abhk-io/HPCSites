@@ -13,12 +13,13 @@ United States	2,414,592	148,600.0	200,794.9	10,096
 DOE/NNSA/LLNL
 United States	1,572,480	94,640.0	125,712.0	7,438
 
-========================================================================================================================================
 4	Sunway TaihuLight - Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway, NRCPC
 National Supercomputing Center in Wuxi
 China	10,649,600	93,014.6	125,435.9	15,371
 5	Perlmutter - HPE Cray EX235n, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10, HPE
 DOE/SC/LBNL/NERSC
+
+========================================================================================================================================
 United States	706,304	64,590.0	89,794.5	2,528
 6	Selene - NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband, Nvidia
 NVIDIA Corporation
