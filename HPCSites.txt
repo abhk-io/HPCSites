@@ -19,11 +19,12 @@ China	10,649,600	93,014.6	125,435.9	15,371
 5	Perlmutter - HPE Cray EX235n, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10, HPE
 DOE/SC/LBNL/NERSC
 
-========================================================================================================================================
 United States	706,304	64,590.0	89,794.5	2,528
 6	Selene - NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband, Nvidia
 NVIDIA Corporation
 United States	555,520	63,460.0	79,215.0	2,646
+
+========================================================================================================================================
 7	Tianhe-2A - TH-IVB-FEP Cluster, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Matrix-2000, NUDT
 National Super Computer Center in Guangzhou
 China	4,981,760	61,444.5	100,678.7	18,482
